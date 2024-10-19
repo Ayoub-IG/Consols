@@ -1,0 +1,83 @@
+
+    {
+      "id": 1,
+      "name": "PlayStation 5",
+      "manufacturer": "Sony",
+      "release_year": 2020,
+      "price": 499,
+      "image_url": "https://th.bing.com/th/id/OIP.h1QE-3Qoj-9avkEEVllD7QHaJS?rs=1&pid=ImgDetMain",
+      "features": {
+        "processor": "AMD Ryzen Zen 2",
+        "gpu": "AMD RDNA 2",
+        "ram": "16GB GDDR6",
+        "storage": "825GB SSD",
+        "resolution": "4K",
+        "backward_compatibility": true
+      }
+    },
+    {
+      "id": 2,
+      "name": "Xbox Series X",
+      "manufacturer": "Microsoft",
+      "release_year": 2020,
+      "price": 499,
+      "image_url": "https://th.bing.com/th/id/OIP.ffc9A_ZPTJPNtDUJTmdJOAAAAA?rs=1&pid=ImgDetMain",
+      "features": {
+        "processor": "AMD Ryzen Zen 2",
+        "gpu": "AMD RDNA 2",
+        "ram": "16GB GDDR6",
+        "storage": "1TB SSD",
+        "resolution": "4K",
+        "backward_compatibility": true
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nintendo Switch",
+      "manufacturer": "Nintendo",
+      "release_year": 2017,
+      "price": 299,
+      "image_url": "https://www.godisageek.com/wp-content/uploads/Nintendo-Switch-Review.jpg",
+      "features": {
+        "processor": "NVIDIA Custom Tegra",
+        "gpu": "NVIDIA",
+        "ram": "4GB LPDDR4",
+        "storage": "32GB (expandable)",
+        "resolution": "1080p (docked), 720p (handheld)",
+        "backward_compatibility": false
+      }
+    },
+    {
+      "id": 4,
+      "name": "PlayStation 4",
+      "manufacturer": "Sony",
+      "release_year": 2013,
+      "price": 399,
+      "image_url": "https://th.bing.com/th/id/OIP.7HDopSshw6IVNU_9k0WLNAHaG8?rs=1&pid=ImgDetMain",
+      "features": {
+        "processor": "AMD Jaguar 8-core",
+        "gpu": "AMD GCN Radeon",
+        "ram": "8GB GDDR5",
+        "storage": "500GB / 1TB HDD",
+        "resolution": "1080p",
+        "backward_compatibility": false
+      }
+    },
+    {
+      "id": 5,
+      "name": "Xbox One",
+      "manufacturer": "Microsoft",
+      "release_year": 2013,
+      "price": 499,
+      "image_url": "https://media.gamestop.com/i/gamestop/10174659/Microsoft-Xbox-One-X-1TB-Console-Black",
+      "features": {
+        "processor": "AMD Jaguar 8-core",
+        "gpu": "AMD GCN Radeon",
+        "ram": "8GB DDR3",
+        "storage": "500GB / 1TB HDD",
+        "resolution": "1080p",
+        "backward_compatibility": true
+      }
+    }
+  ]
+
